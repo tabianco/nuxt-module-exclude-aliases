@@ -1,6 +1,6 @@
 {
   "name": "@tabianco/nuxt-module-exclude-aliases",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Nuxt3 module to exclude specified aliases from alias config",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
